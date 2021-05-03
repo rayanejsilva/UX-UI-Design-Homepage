@@ -28,4 +28,4 @@ I am new to web development and any idea or suggestion helps me to become a bett
 
 ## Code of Conduct
 
-By participating in this repository, you are expected to uphold the Code of Conduct.
+By participating in this repository, you are expected to uphold the [Code of Conduct](https://github.com/rayanejsilva/UX-UI-Design-Homepage/blob/main/CODE_OF_CONDUCT.md).
