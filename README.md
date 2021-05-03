@@ -15,6 +15,9 @@ Personal home page designed by [Deepa Thomas](https://github.com/deepa-thomas) a
 
 This project is part of the module **UX/UI Design** for [HackYourFuture Belgium](https://hackyourfuture.be/).
 
+The main objective is to learn about *Design Thinking* and *User Empathy* by designing a home page for my partner and developing my own home page based on her design.
+
+
 ## Learning goals
 
 -  **Week 1**
