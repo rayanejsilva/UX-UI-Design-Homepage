@@ -4,8 +4,6 @@ Personal home page designed by [Deepa Thomas](https://github.com/deepa-thomas) a
 
 ## Contents
 
-- [UX/UI Design: Homepage](#uxui-design-homepage)
-  - [Contents](#contents)
   - [Introduction](#introduction)
   - [Learning goals](#learning-goals)
   - [Project phases](#project-phases)
