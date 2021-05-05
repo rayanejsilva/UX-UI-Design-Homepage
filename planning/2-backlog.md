@@ -1,23 +1,43 @@
 # Backlog (_First Draft_)
 
-## Setting Priorities
+## **Must Have**
 
-A Backlog is just a collection of User Stories that your team has agreed on. The finished backlog isn't very complicated, it's a list of User Stories sorted by priority. But coming up with the backlog isn't so easy. You'll need to think about all the things you could build and decide how important each one is:
+As a **general user** I want easily access the information about Rayane's background.
 
--  **Must Have**: these user stories are necessary for basic usability.
--  **Should Have**: these user stories will complete the user experience, but are not necessary.
--  **Could Have**: these user stories would be really cool ... if there's time
+-  [ ] Given when I see the navigation bar, then a link to _About_ page of the website is provided.
 
-Deciding how to prioritize each user story will take lots of practice, trial and error. In this module it will be simpler since the projects are small and you'll often have code to start with. Starting in _UX/UI Design_ you will be assigned more open-ended projects. It will be your responsibility to **_scope_** your projects so they can be finished in one week.
+As a **general user** I want to get in touch with Rayane.
 
----
+-  [ ] Given I want to stay in touch, then It must have a contact section in the footer with clickable icons that bring him to Rayane's social media profiles.
 
-## Story Sequencing
+As a **general user** I want to know how she looks like.
 
-The user stories in your Backlog are sorted by priority, but not written in any particular order. Some user stories depend on each other, some do not. Figuring out these relationships will make it easy to go from a unsorted backlog to a structured development strategy.
+-  [ ] Given when I access the homepage, then a profile picture is displayed on the left side of the main section.
 
-Understanding these dependencies will also allow you to collaborate much more efficiently. Two people can develop different user stories at the same time if they do not depend on each other. And team mates can move on to new user stories that do not depend on yours without waiting for you to finish.
+As a **recruiter** I want to learn more about her professional experience.
 
-This question is all you need to get start sequencing your user stories:
+-  [ ] Given when I access the _About_ page, I can see a section with relevant work experiences and skills.
 
--  Does it make sense for a user to do _B_ without being able to do _A_?
+As a **IT professional** I want to have more detailed information about her work as a developer.
+
+-  [ ] Given when I see the navigation bar, then a link to _Projects_ page of the website is provided.
+
+As a **page owner** I want my website to have a visual identity that communicates my personality.
+
+-  [ ] Given I want my website to demonstrate a refined aesthetic, then It must have a muted color palette and thin lines.
+
+## **Should Have**
+
+As a **general user** I want to access her homepage using different devices.
+
+-  [ ] Given I want her homepage to look good, and be easy to use, regardless of the device, then It should have a responsive design.
+
+As a **recruiter** I want to know her professional accomplishments.
+
+-  [ ] Given when I access the homepage, then It should have a contact section in the footer with clickable icon with a link to Rayane's LinkedIn account.
+
+## **Could Have**
+
+As a **page owner** I want my website to have my brand identity.
+
+-  [ ] Given when I see the navigation bar, then a logo is displayed on the top left of the header.
