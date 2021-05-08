@@ -1,3 +1,3 @@
 # Wireframe
 
-![wireframe](https://github.com/deepa-thomas/UX-UI-Design-Homepage-1/blob/main/planning/wireframe-homepage-rayane.png?raw=true)
+![wireframe](https://github.com/rayanejsilva/UX-UI-Design-Homepage/blob/main/planning/wireframe-homepage-rayane.png?raw=true)
