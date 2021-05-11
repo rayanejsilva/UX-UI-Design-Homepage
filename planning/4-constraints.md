@@ -4,7 +4,7 @@ Some boundaries around our project.
 
 ## External
 
- - Short time to build the homepage. Only one week for the developement phase.
+ - Short time to build the homepage. Only one week for the development phase.
 
 ## Internal: Involuntary
 
