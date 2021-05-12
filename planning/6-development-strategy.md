@@ -20,7 +20,7 @@
 
 -  Header (issue)
 
-   -  [ ] white background
+   -  [ ] background color FBFBFB
    -  [ ] Martel Sans font
 
 -  Logo (_issue_)
