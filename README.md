@@ -8,6 +8,7 @@ Personal home page designed by [Deepa Thomas](https://github.com/deepa-thomas) a
   - [Learning goals](#learning-goals)
   - [Project phases](#project-phases)
   - [Technologies](#technologies)
+  - [Visual Identity Board](#visual-identity)
   - [Links](#links)
   - [License](#license)
 
@@ -47,6 +48,11 @@ The main objective is to learn about *Design Thinking* and *User Empathy* by des
 -  CSS
 -  VSCode
 -  Figma
+
+## Visual Identity Board
+
+<img width="411" alt="visual-identity-board" src="https://user-images.githubusercontent.com/77668516/117980516-56bf9700-b334-11eb-90ad-8e21ca6695fc.png">
+
 
 ## Links
 
