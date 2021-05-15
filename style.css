@@ -431,6 +431,9 @@ footer {
 /*Resume Page */
 .main-resume {
    display: flex;
+   justify-content: center;
+   align-content: center;
+   align-self: right;
    flex: 1;
    width: 1665px;
    max-width: auto;
@@ -438,17 +441,114 @@ footer {
    height: auto;
    background-color: #f7f3f1;
 }
-.title-resume {
-   font-family: "Raleway", sans-serif;
-   font-weight: 600;
+.top-resume {
+   display: block;
+   position: absolute;
+   justify-content: center;
+   align-items: center;
+   align-content: center;
    width: 280px;
    height: 90px;
+   margin-top: 48px;
+}
+.title-resume {
+   font-family: "Raleway", sans-serif;
+   align-self: center;
+   text-align: center;
+   font-weight: 600;
    color: #5e17eb;
    font-size: 2.5em;
+   margin-top: 25px;
    border-bottom: 2px solid #f3c130;
-   padding: 5px 0 5px 0;
-   margin: 37px 0 35px 50px;
 }
+
+.h2-resume {
+   display: flex;
+   position: absolute;
+   justify-content: flex-start;
+   align-content: flex-start;
+   width: 760px;
+   height: 30px;
+   margin-top: 210px;
+}
+
+.ex-resume {
+   align-self: left;
+   color: #242424;
+   font-family: "DM Sans", sans-serif;
+   font-weight: 800;
+   font-size: 1.3em;
+}
+.experience-1 {
+   display: flex;
+   position: relative;
+   align-self: center;
+   width: 760px;
+   height: 280px;
+   margin-top: 80px;
+   background-color: #ffffff;
+   border: 1px solid transparent;
+   box-shadow: 0px 15px 10px -15px rgb(180, 174, 174);
+}
+
+.resume-right {
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-content: center;
+   text-align: left;
+   width: 400px;
+   height: 180px;
+   margin-left: 40px;
+   margin-top: 50px;
+}
+
+.resume-left {
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-self: center;
+   width: 250px;
+   height: 100px;
+   margin-left: 48px;
+   line-height: 29px;
+}
+
+.date {
+   color: #5e17eb;
+   font-family: "Raleway", sans-serif;
+   font-weight: bolder;
+   font-size: 1.2em;
+}
+
+.position {
+   color: #242424;
+   font-family: "Martel Sans", sans-serif;
+   font-weight: 500;
+   font-size: 1em;
+   margin-bottom: 10px;
+}
+.company {
+   color: #242424;
+   font-family: "Raleway", sans-serif;
+   text-transform: uppercase;
+   font-weight: 600;
+   font-size: 0.95em;
+}
+.job-resume {
+   font-family: "DM Sans", sans-serif;
+   color: #1c1b1b;
+   margin: 28px 0 0 50px;
+   font-weight: 400;
+   font-size: 0.96em;
+   word-spacing: 1px;
+}
+
+.job-resume p {
+   line-height: 38px;
+   margin: 11px 0;
+}
+
 /* Projects Page */
 
 .main-projects {
@@ -469,7 +569,7 @@ footer {
    width: 1017px;
    height: 260px;
    margin-top: 45px;
-   background-color: #e7ecff;
+   background-color: #ffcc5c;
    z-index: 3;
 }
 
@@ -527,7 +627,7 @@ footer {
    font-size: 2.5em;
    border-bottom: 2px solid #f3c130;
    padding: 5px 0 5px 0;
-   margin: 37px 0 35px 50px;
+   margin: 40px 0 35px 50px;
 }
 
 .p-definition {
@@ -535,7 +635,7 @@ footer {
    color: #1c1b1b;
    width: 320px;
    height: 360px;
-   margin: 28px 0 0 50px;
+   margin: 45px 0 0 50px;
    font-weight: 400;
    font-size: 0.96em;
    word-spacing: 1px;
