@@ -249,6 +249,7 @@ main {
 footer {
    display: flex;
    flex-shrink: 1;
+   position: relative;
    justify-content: flex-end;
    align-items: center;
    width: 1685px;
@@ -256,7 +257,8 @@ footer {
    max-width: auto;
    min-width: auto;
    background-color: #ffffff;
-   box-shadow: 0 0 50px 0 #rgb(180, 174, 174);
+   box-shadow: 0 0 50px 0 rgb(246, 242, 242);
+   z-index: 1;
 }
 
 .icons-footer {
@@ -296,4 +298,103 @@ footer {
 
 .icon-link3:hover {
    opacity: 1;
+}
+
+/* About Page */
+
+.main-about {
+   display: flex;
+   flex: 1;
+   width: 1665px;
+   max-width: auto;
+   min-width: auto;
+   height: auto;
+   background-color: #fafafa;
+}
+
+.purple-bg {
+   display: flex;
+   position: absolute;
+   justify-content: center;
+   align-content: center;
+   width: 1070px;
+   height: 260px;
+   margin-top: 44px;
+   background-color: #5e17eb;
+   z-index: 3;
+}
+
+.about-wrap {
+   display: flex;
+   position: absolute;
+   justify-content: center;
+   width: 1480px;
+   height: auto;
+   margin-left: 5.3%;
+   z-index: 1;
+   background-color: #fafafa;
+}
+.about-container {
+   display: flex;
+   position: absolute;
+   align-self: center;
+   width: 900px;
+   height: 545px;
+   margin: 35px 90px 0 0;
+   z-index: 5;
+   background-color: #ffffff;
+}
+
+.about-header {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 1665px;
+   max-width: auto;
+   min-width: auto;
+   height: 98px;
+   background-color: #fafafa;
+}
+
+.img-travel img {
+   display: flex;
+   position: absolute;
+   width: 410px;
+   height: 545px;
+   margin-left: 13%;
+}
+
+.title-about {
+   font-family: "Raleway", sans-serif;
+   font-weight: 600;
+   color: #5e17eb;
+   font-size: 2.5em;
+   padding: 5px 0 5px 0;
+   margin: 20px 0 20px 0;
+}
+
+.p-intro {
+   font-family: "DM Sans", sans-serif;
+   color: #1c1b1b;
+   width: 470px;
+   height: 250px;
+   font-weight: 400;
+   font-size: 0.98em;
+   word-spacing: 1px;
+   background-color: indianred;
+}
+
+.p-intro p {
+   line-height: 25px;
+   margin: 9px 0;
+}
+
+.grey-bg {
+   width: 1480px;
+   display: flex;
+   position: relative;
+   margin-top: 10.2%;
+   height: 515px;
+   background-color: #f7f3f1;
+   z-index: 2;
 }
