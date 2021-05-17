@@ -27,3 +27,23 @@
 -  How to make a user interview.
 -  How to turn the interview notes into backlog and wireframe.
 -  How to think about the webpage layout.
+
+## WEEK 2
+
+### **Stop Doing**:
+
+-  Coding late.
+
+### **Continue Doing**:
+
+-  Organizing my tasks on the project board.
+
+### **Start Doing**:
+
+-  Responsive design.
+-  Mobile screen size.
+
+### **Lessons Learned**:
+
+- Accessible design.
+- How to use Figma for planning websites.
